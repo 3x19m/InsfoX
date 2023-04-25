@@ -1,4 +1,4 @@
-# Obfuscated with au0_root 📑 
+# Obfuscated with au0_root 
 #(If you Want , You can Decompile)
 # https://www.github.com/h4x3r1
 # -------------------------------
