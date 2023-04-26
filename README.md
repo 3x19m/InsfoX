@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=INSTAGRAM+INFORMATION+GATHERING+TOOL)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F711FF&width=460&height=70&lines=NSTAGRAM+INFO+GATHERING+📑" alt="Typing SVG" /></a>
+
 𝐀𝐮𝐭𝐡𝐨𝐫:
 <p align="center">
 Console / ريدوي 
