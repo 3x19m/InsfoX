@@ -17,7 +17,7 @@ Console / ريدوي
 
 * `pip install instaloader`
 
-* `python Hax4_InsfoX.py`
+* `python InsfoX.py`
 
 
 ### ( FREE OF COST )
